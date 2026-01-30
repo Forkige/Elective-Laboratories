@@ -1,0 +1,12 @@
+﻿* The purpose of your app.
+* The purpose of this app is to help people, especially students and workers to list and track the tasks and responsibilities they have to do so they can be more efficient in doing their task. And they can also see their performance monthly so they can evaluate and analyze their performance. Having this app helps get the most use of their available time and not waste time because time is the most valuable currency. 
+* Target users
+* Anyone can use the app to use their time efficiently. But the main target users, users that are built for this app are students and workers. One of the target users is students because students have a lot of tasks in hand and it can be a handful for students. The other target user is the workers, this can be any workers, even freelancers, because these people have important deadlines in their work so it is important to organize their tasks. 
+* Why you chose your layout and colors
+* The reason why I chose this layout, a relatively simple layout, is because I want my app to be user friendly and can be readable to any user and to give them the important information ahead. And for the color’s I chose these colors because it is the base of my color palette brand and also the color teal is what the user sees first in the app so I use it to its advantage to make the user see the important information first.
+* Challenges faced
+* The challenges I faced is making the ux/ui in my app user friendly because it is important to not overwhelm the user and thinking and designing a user friendly interface can be a challenging work. Also the font for the login and sign up screen is also a challenge because I was struggling to find a perfect font to fit on the mobile that doesn't look like it's out of place, most of the font looks like it's out of place. 
+
+
+* Improvements you’d make with more time
+* The improvements I would make if I have more time is to create a calendar that shows the task on that specific date. I would also add a setting with multiple options for the user preference. I would also like to add a priority list so the user can pick a task with the highest priority. I would also like to add an alert that shows and tells the user a deadline is coming near and should finish the task.
